@@ -1,5 +1,13 @@
 {
-  "TQSVigas": "v1.0.0",
-  "TQSFormas": "v1.0.0",
-  "NovoProduto": "v1.0.0"
+  "CuboClickUp": "v1.0",
+  "CuboDimensiona": "v1.1",
+  "CuboInstaladorLicenças": "v1.1",
+  "CuboQRCode": "v1.3",
+  "TQSBackup": "v3.3",
+  "TQSBlocos": "v2.3",
+  "TQSCargasEx": "v4.5",
+  "TQSFuros": "v1.3",
+  "TQSRenomeador": "v1.1",
+  "TQSVigas": "v1.1",
+  "CuboRevitPlugIn2025": "v1.6"
 }
